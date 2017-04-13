@@ -131,7 +131,7 @@ public class ServerFragment extends Fragment {
         public void run() {
             File file = new File(
                     Environment.getExternalStorageDirectory(),
-                    "test.jpg");
+                    "test.mp3");
 
             byte[] bytes = new byte[(int) file.length()];
             BufferedInputStream bis;
