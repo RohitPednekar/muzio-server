@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MuzioServer.iml" filepath="$PROJECT_DIR$/MuzioServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/muzio-server.iml" filepath="$PROJECT_DIR$/muzio-server.iml" />
     </modules>
   </component>
 </project>
